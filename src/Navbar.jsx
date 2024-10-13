@@ -24,7 +24,7 @@ export default function Navbar() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Ploychompoo
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">Loginn</Button>
         </Toolbar>
       </AppBar>
     </Box>
